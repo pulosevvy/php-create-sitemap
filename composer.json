@@ -1,5 +1,5 @@
 {
-    "name": "test/sitemap-generation",
+    "name": "test-pyrocode/sitemap-generation",
     "description": "A test task for creating a sitemap generation package",
     "type": "library",
     "autoload": {
