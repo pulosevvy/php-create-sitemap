@@ -1,0 +1,17 @@
+{
+    "name": "test/sitemap-generation",
+    "description": "A test task for creating a sitemap generation package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SitemapGeneration\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alexander",
+            "email": "kasyanov.alesander@gmail.com"
+        }
+    ],
+    "require": {}
+}
